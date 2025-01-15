@@ -3,6 +3,17 @@ Data Scientist with a passion for turning data into actionable insights and buil
 
 ---
 
+## 📂 My Projects  
+Here are some of my featured projects:  
+
+| Project Name       | Description                              | Technologies         | Link                     |
+|--------------------|------------------------------------------|----------------------|--------------------------|
+| Kaggle-Project-Titanic   | Passenger survival classification.    | Scikit-learn, Missingno, Seaborn, CatBoost, LightGBM | [GitHub](https://github.com/frolovao/Kaggle-Project-Titanic/tree/main) |
+| Time Series   | Taxi order prediction | Scikit-learn, StatsModels, Pandas, Numpy, Matplotlib   | [GitHub](https://github.com/frolovao/time_series) |
+| Bootstrap      | Oil reserves prediction in a region     |  Scikit-learn, LinearRegression, Pandas, PolynomialFeatures    | [GitHub](https://github.com/frolovao/bootstrap/tree/main) |
+
+---
+
 ## 🛠️ Skills  
 - Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Databases: PostgreSQL, MySQL  
