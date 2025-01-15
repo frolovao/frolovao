@@ -31,6 +31,11 @@ I actively explore new trends in machine learning, data visualization, and softw
 
 ---
 
+## 👀 Open to Work  
+I am actively seeking opportunities as a Junior Data Scientist. I am ready to contribute to innovative projects and help businesses leverage data for better decision-making. Feel free to reach out with any job offers or collaboration ideas.  
+
+---
+
 ## 📬 Let’s Connect!  
 Feel free to reach out for collaborations or discussions about data science:  
 - Telegram: [@Foksyyy](https://t.me/Foksyyy)  
