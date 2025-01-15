@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Oksana Frolova  
-Aspiring Junior Data Scientist with a passion for turning data into actionable insights and building predictive models. I love solving complex problems and continuously improving my skills in the field of data science.  
+Data Scientist with a passion for turning data into actionable insights and building predictive models. I love solving complex problems and continuously improving my skills in the field of data science.  
 
 ---
 
