@@ -6,9 +6,6 @@ Data Scientist with a passion for turning data into actionable insights and buil
 ## 📂 My Projects  
 Here are some of my featured projects:  
 
-## 📂 My Projects  
-Here are some of my featured projects:  
-
 | Project Name                  | Description                                                                 | Technologies                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [NLP-Toxic-comments](https://github.com/frolovao/NLP-Toxic-comments)  | Classification of comments for toxicity   | Python, NLTK, Re, ADASYN, CatBoost, LightGBM                                                                                                 |
