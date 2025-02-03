@@ -6,15 +6,19 @@ Data Scientist with a passion for turning data into actionable insights and buil
 ## 📂 My Projects  
 Here are some of my featured projects:  
 
-| Project Name       | Description                              | Technologies         | Link                     |
-|--------------------|------------------------------------------|----------------------|--------------------------|
-| Kaggle-Project-Titanic   | Passenger survival classification.    | Python, Scikit-learn, Missingno, Pipeline, CatBoost, LightGBM | [GitHub](https://github.com/frolovao/Kaggle-Project-Titanic/tree/main) |
-| Time Series   | Taxi order prediction | Python, StatsModels, Scikit-learn, Pandas, Numpy, Matplotlib   | [GitHub](https://github.com/frolovao/time_series) |
-| Bootstrap      | Oil reserves prediction in a region     |  Python, Scikit-learn, LinearRegression, Pandas, PolynomialFeatures, Matplotlib    | [GitHub](https://github.com/frolovao/bootstrap/tree/main) |
-| HR Analytics for a company      | Employee satisfaction prediction and turnover classification     |  Regression + Classification, Python, Pandas, Scikit-learn, Seaborn, Phik    | [GitHub](https://github.com/frolovao/hr_analytics) |
-| Buyer Classification      | Prediction of customers activity and personalized recommendations     |  Python, Shap, Phik,  Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn    | [GitHub](https://github.com/frolovao/classification_models) |
-| Linear Models      | Prediction of cow milk yield and milk taste quality     |  Python, Scikit-learn, LinearRegression, LogisticRegression, Pandas, Phik, Matplotlib, Seaborn   | [GitHub](https://github.com/frolovao/linear_models) |
-| Statistical Data Analysis      | Identifying patterns that determine the success of a game     |  Python, Pandas, Numpy, Matplotlib, Scipy   | [GitHub](https://github.com/frolovao/statistical_data_analysis) |
+## 📂 My Projects  
+Here are some of my featured projects:  
+
+| Project Name                  | Description                                                                 | Technologies                                                                                     |
+|-------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [NLP-Toxic-comments](https://github.com/frolovao/NLP-Toxic-comments)  | Classification of comments for toxicity   | Python, NLTK, Re, ADASYN, CatBoost, LightGBM                                                                                                 |
+| [Kaggle-Project-Titanic](https://github.com/frolovao/Kaggle-Project-Titanic/tree/main)   | Passenger survival classification                                          | Python, Scikit-learn, Missingno, Pipeline, CatBoost, LightGBM                                   |
+| [Time Series](https://github.com/frolovao/time_series)              | Taxi order prediction                                                       | Python, StatsModels, Scikit-learn, Pandas, Numpy, Matplotlib                                    |
+| [Bootstrap](https://github.com/frolovao/bootstrap/tree/main)                | Oil reserves prediction in a region                                         | Python, Scikit-learn, LinearRegression, Pandas, PolynomialFeatures, Matplotlib                  |
+| [HR Analytics for a company](https://github.com/frolovao/hr_analytics)| Employee satisfaction prediction and turnover classification                | Regression + Classification, Python, Pandas, Scikit-learn, Seaborn, Phik                        |
+| [Buyer Classification](https://github.com/frolovao/classification_models)     | Prediction of customers activity and personalized recommendations           | Python, Shap, Phik, Scikit-learn, Pandas, DummyClassifier, Matplotlib, Seaborn                  |
+| [Linear Models](https://github.com/frolovao/linear_models)            | Prediction of cow milk yield and milk taste quality                         | Python, Scikit-learn, LinearRegression, LogisticRegression, Pandas, Phik, Matplotlib, Seaborn   |
+| [Statistical Data Analysis](https://github.com/frolovao/statistical_data_analysis)| Identifying patterns that determine the success of a game                   | Python, Pandas, Numpy, Matplotlib, Scipy                                                        |
 
 ---
 
